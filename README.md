@@ -1,4 +1,5 @@
-== To use this skel
+# To use this skel
+
 1. clone the repository
 2. bundle install
 3. guard
