@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rspec-nc', '0.2.0'
+gem 'rb-fsevent'
